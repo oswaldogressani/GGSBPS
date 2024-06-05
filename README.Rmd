@@ -1,0 +1,15 @@
+---
+title: "Griddy-Gibbs sampling for Bayesian P-splines (GGSBPS)"
+output: github_document
+author: Oswaldo Gressani
+date: 2024-05-30
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Structure of the repository
+
+Contains the routines to reproduce the results of the paper "Griddy-Gibbs sampling for Bayesian P-splines models with Poisson data" by Oswaldo Gressani and Paul H.C. Eilers.
+
